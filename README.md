@@ -33,6 +33,36 @@ see official website
 mkcert -install
 ```
 
+## Windows OS Setup instruction
+
+Install Ruby 2.7 and Rails
+
+Install NodeJS, VueCLI, PostgreSQL
+
+Install SSL and add highday.kinoba domain
+
+Install RedisServer on WSL
+
+Run the App and test it
+
+Rbenv-ruby-install
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-18-04
+
+wsl-2-install
+https://docs.microsoft.com/fr-fr/windows/wsl/install
+
+redis-server-install-in-wsl
+https://anggo.ro/note/installing-redis-in-ubuntu-wsl/
+
+Doc
+https://github.com/highday-org/intern/blob/main/README.md
+
+hosts:
+c:\Windows\System32\Drivers\etc
+127.0.0.1       highday.kinoba
+========================================
+
+
 ### Installing and running the app
 
 #### HTTPS
