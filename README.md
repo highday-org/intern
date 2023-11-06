@@ -37,7 +37,7 @@ mkcert -install
 
 Install Ruby 2.7 and Rails
 
-Install NodeJS, VueCLI, PostgreSQL
+Install NodeJS@14, VueCLI@5, PostgreSQL@14
 
 Install SSL and add highday.kinoba domain
 
